@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "125671000781",
+    "firebase_url": "https://biplobicr.firebaseio.com",
+    "project_id": "biplobicr",
+    "storage_bucket": "biplobicr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125671000781:android:ddb465253fd0426723f784",
+        "android_client_info": {
+          "package_name": "com.example.biplobi_cr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125671000781-t1irj3rhmh49g6ppci43jkf3tda4gifb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.biplobi_cr",
+            "certificate_hash": "3579f6df108ad4ea77e760d5178a56a371f030ae"
+          }
+        },
+        {
+          "client_id": "125671000781-upgqemlm0tugual92i03omjvhqsc61qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5vrB3ZEjbtFYi0fj81JW4L80QCwQFJ8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125671000781-upgqemlm0tugual92i03omjvhqsc61qj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
